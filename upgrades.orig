@@ -36,7 +36,7 @@
 			<div class="upgrade-container">
 				<div class="upgrade-name vip-title">
 					VIP
-					<div class="upgrade-price">$15</div>
+					<div class="upgrade-price">$5</div>
 				</div>
 				<div class="perk-title">Perks</div>
 				<div class="upgrade-description">
@@ -72,13 +72,13 @@
 					</div>
                 </div>
                 <div class="purchase">
-                    <a href="http://t.me/realrenzy" id="2" class="purchase-button bitcoin">Purchase</a>
+                    <a href="http://discord.gg/idrc" id="2" class="purchase-button bitcoin">Purchase</a>
                 </div>
 			</div>
 			<div class="upgrade-container">
 				<div class="upgrade-name criminal-title">
 					Criminal
-					<div class="upgrade-price">$30</div>
+					<div class="upgrade-price">$20</div>
 				</div>
 				<div class="perk-title">Perks</div>
 				<div class="upgrade-description">
