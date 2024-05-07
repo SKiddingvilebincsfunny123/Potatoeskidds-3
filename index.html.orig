@@ -9,14 +9,14 @@
 <body>
 <div class="navi_wrap">
         <div class="navi">
-                <div><a class="brand" href="/">Vilebin</a></div>
+                <div><a class="brand" href="/">Milobin</a></div>
                 <div class="navi_body" id="navi_body"><a class="active" href="/">Home</a>
                 <a  href="/post">Add Paste</a>
                 <a  href="/users">Users</a>
                 <a  href="/upgrades">Upgrades</a>
                 <a  href="/hoa">Hall of Autism</a>
                 <a  href="/tos">TOS</a>
-                <a target="_blank" href="https://t.me/vilebin">Telegram</a>
+                <a target="_blank" href="https://discord.gg/idrc">Discord/a>
             <div class="navi_right">
                 <a  href="/login">Login</a>
                 <a  href="/register">Register</a>
